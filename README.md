@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi there, I'm **xuan**, a **Computer Science and Biological Sciences Students** and a **Software Engineering student** 🚀 from Nanjing China.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **xuan**, a **Computer Science and Biological Sciences Students** and a **Software Engineering student** 🚀 from Nanjing China.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@xuan-lab](https://github.com/xuan-lab), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -52,4 +52,4 @@ Hi there, I'm **xuan**, a **Computer Science and Biological Sciences Students** 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=xuan-lab&show_icons=true&hide_border=true)
