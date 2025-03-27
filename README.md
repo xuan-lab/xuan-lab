@@ -27,7 +27,6 @@ Hi there, I'm **xuan**, a **Computer Science and Biological Sciences Students** 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via xiexuan@kernel-dev.com to reach me.
 - 📝 See my [Curriculum Vitae]() to get more info.
 
 
