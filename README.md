@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi there, I'm **xuan**, a **Computer Science and Biological Sciences Students**  🚀 from Nanjing China.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@NSBIT](https://github.com/NJFU-Student-Biochem-Informatics-Team), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **xuan**, a **Computer Science and Biological Sciences Students** .  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@NSBIT](https://github.com/NJFU-Student-Biochem-Informatics-Team), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/), and an Artificial Intelligence intern 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
